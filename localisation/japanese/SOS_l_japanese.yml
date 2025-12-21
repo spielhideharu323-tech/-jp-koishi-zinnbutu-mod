@@ -1,0 +1,23 @@
+﻿l_japanese:
+
+#事件
+
+#國家
+
+SZM_SOS:0 "SOS團"
+SOS:0 "SOS團"
+SOS_DEF:0 "SOS團"
+SOS_ADJ:0 "SOS團"
+#角色名定義
+
+ Name_SOS_HRH:0 "涼宮春日"
+ Name_SOS_KYO:0 "阿虛"
+ Name_SOS_YUKI:0 "長門有希"
+ Name_SOS_MKR:0 "朝比奈實玖瑠"
+ Name_SOS_ITK:0 "古泉一樹"
+
+#關係
+#民族精神
+#國策
+#特質
+#佔領法案

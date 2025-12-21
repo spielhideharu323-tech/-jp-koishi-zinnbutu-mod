@@ -1,0 +1,451 @@
+﻿l_japanese:
+
+KOI_decision_category:0 "古明地こいし人物MOD"
+KOI_decision_category_desc:0 "ただのこいしMODのはずが、作っているうちに頭が爆発しそうになった。でもこいしのためなら全部受け入れられる。Anyway,let playing with Koishi!"
+
+KOI_characters_decision:0 "外に出てみる"
+KOI_characters_decision_desc:0 "馴染みの郊外を散歩しよう！"
+KOI_characters_decision_tt:0 "思いがけない出来事が起こるかもしれない"
+
+KOI_YNY_decision:0 "国家を妖怪の山へと変え、その未来の進路を決定する。民主的な政策を続けるのか、それとも変革を選ぶのか？"
+
+KOI_retreve_decision:0  "こいしを呼び戻す"
+KOI_retreve_decision_desc:0  "こいしが逃げた？すぐに家へ連れ戻そう！"
+KOI_retreve_decisions_tt:0  "こいしを永遠にそばに置く！"
+
+KOI_feed_decision:0  "こいしにお布施する"
+KOI_feed_decision_desc:0  "お金が余って困ってる？全部こいしにお布施しちゃおう！"
+KOI_feed_decision_tt:0  "こいしにお布施する"
+
+KOI_travel_decision:0 "こいしを外の世界へ"
+KOI_travel_decision_desc:0 "自国だけでは世界を理解できない？こいしを他の場所へ旅させよう！"
+KOI_travel_decision_tt:0  "こいしが旅行に出る！"
+
+KOI_idol_decision:0 "こいしの巡回コンサート"
+KOI_idol_decision_desc:0 "世界が緊張しすぎ？こいしに福音を広めてもらおう！"
+KOI_idol_decision_tt:0 "こいしが世界で巡回公演を行う！"
+
+KOI_visit_decision:0 "こいしの国賓訪問"
+KOI_visit_decision_desc:0 "不安を感じる？こいしに頼んで大物に庇護してもらおう！"
+KOI_visit_decision_tt:0 "こいしがある国へ国賓訪問する！"
+
+KOI_work_decision:0 "こいしが全国の労働者を鼓舞して大建設を推進"
+KOI_work_decision_desc:0 "国家の発展のためには、全国規模の総動員による建設が不可欠だ。こいしに厳しく鞭策させ、今すぐ働かせよう！Go work！"
+KOI_work_decision_tt:0  "「働いているときにこいしが笑いかけてくれたら、体が一瞬で活力に満ちた！」\n「永遠の忠誠！」\nこいしは各地で労働者を鼓舞し、偉大な目標が達成されるまで続ける。そして完成後、我が国の工業水準は飛躍的に向上する。"
+
+KOI_faction_decision:0 "こいしに同盟を説得させる"
+KOI_faction_decision_desc:0 "独立を守るだけでは不安？それなら直接同盟を結ぼう！"
+KOI_faction_decisions_tt:0 "既に外交関係を持つ国に同盟を提案する"
+
+KOI_puppet_decision:0 "こいしに盟友へ統合を要求させる"
+KOI_puppet_decision_desc:0 "盟友の貢献が大きすぎて競り合えない？それなら傀儡化してしまえ！"
+KOI_puppet_decisions_tt:0 "相手を我が国の傀儡国にする"
+
+KOI_annex_decision:0 "こいしに傀儡国の併合を要求させる"
+KOI_annex_decision_desc:0 "傀儡化だけでは満足できない？それなら併合だ！"
+KOI_annex_decisions_tt:0 "傀儡国を併合し、核心州を獲得する"
+
+KOI_core_decision:0 "こいしに占領地で統一思想を宣伝させる"
+KOI_core_decision_desc:0 "領土内にはまだ自分がこの国に属していないと思う者がいる。そんな者にはこいしが強烈な一撃を加えるべきだ！"
+KOI_core_decision_tt:0 "占領地を核心州化する"
+
+KOI_picture_decision:0 "こいし助手の画像を変更"
+KOI_picture_decision_desc:0 "同じこいしばかりで見飽きた？クリックすれば10枚のこいし画像からランダムで選ばれる！"
+KOI_picture_decision_tt:0 "10枚のこいし画像からランダムで選び、現在の画像を置き換える"
+
+KOI_rebuild_decision:0 "特殊法案を再追加"
+KOI_rebuild_decision_desc:0 "特殊法案が消えた？ワンクリックで取り戻そう！"
+KOI_rebuild_decisions_tt:0 "国策や決議で消えた法案を再び追加する"
+
+KOI_help_decision:0 "こいしに盟国への投資を呼びかけさせる"
+KOI_help_decision_desc:0 "盟友が都市化されていない？こいしが資本家に投資を呼びかける！"
+KOI_help_decisions_tt:0 "国内企業が盟友に工場やインフラを建設する"
+
+KOI_faction_decision:0 "こいし同好会を設立"
+KOI_faction_decision_desc:0 "単独では心許ない？陣営名が響かない？それならこいし同好会を設立しよう！"
+
+KOI_trade_2_decision:0 "国内資源輸出を増加"
+KOI_trade_2_decision:0 "資源が余って使い切れない？輸出を増やしてより強力なバフを得よう！"
+KOI_trade_3_decision:0 "国内資源輸出を増加"
+KOI_trade_3_decision:0 "資源が余って使い切れない？輸出を増やしてより強力なバフを得よう！"
+KOI_trade_4_decision:0 "国内資源輸出を増加"
+KOI_trade_4_decision:0 "資源が余って使い切れない？輸出を増やしてより強力なバフを得よう！"
+KOI_trade_5_decision:0 "国内資源輸出を増加"
+KOI_trade_5_decision:0 "資源が余って使い切れない？輸出を増やしてより強力なバフを得よう！"
+KOI_idol_economics_tt:0 "私は中之、工場労働者だ。最近、上から輸出を増やせとの指示があり、使える資源は減ったが生産目標は変わらない。数日後、機械は火花を散らすほど酷使されても銃一丁作れなかった。その時、生産隊長が工場の壁に一枚のポスターを貼った。それは我が国で人気の大スターのものだった。眩しい笑顔を見ているうちに、なぜか銃を作れるようになった。資源を使わずに武器を生み出す仲間たちを見て、私は思わず感嘆した。「[ROOT.GetLeader]は本当に天才だ！」"
+
+KOI_STRF_decision:0 "気力なし！殴るの禁止！"
+KOI_STR_decision:0 "地霊殿で遊ぶ"
+KOI_STR_decision_desc:0 "普通のこいしでは満足できない？それならさとりを遊んでみよう！世界全体を相手にする一本道で、イベントで出る地霊殿と同じ仕様。あまりおすすめはできないが、作った以上は選択可能にしてある。"
+KOI_STRW_decision:0 "初心者の最初の一攫千金"
+KOI_STRT_decision:0 "戦え！"
+KOI_STRSt_decision:0 "初心者の最初の部隊"
+KOI_STRS_decision:0 "地霊殿兵団を召喚"
+
+KOI_propaganda_war_decision:0 "必勝の精神を宣伝！"
+KOI_propaganda_war_decision_desc:0 "現在、国内にはさとりとの戦争を恐れる者が多すぎる。その解決策はもちろん、こいしによる大規模な宣伝だ！"
+KOI_propaganda_war_decision_tt:0 "我々は絶対に降伏しない！そして最終的な勝利を掴み取る！"
+
+#事件
+KOI_event.8964.t:0 "初めての出会い！"
+KOI_event.8964.d:0 "ある普通の日、あなたは郊外の小道を歩きながら自然の息吹と世界の美しさを感じていた。すると、黄の服に緑のスカート、黒い帽子をかぶった少女が横を通り過ぎる。どこか奇妙で、懐かしいような感覚が胸に広がり、彼女の一歩一歩が心に響いてくる。ふと前世の記憶がよみがえり、あなたは悟った――前世は救いようのないこいし厨で、目の前の少女こそが心に刻まれたこいしだったのだ！記憶が押し寄せ、すべてを理解したあなたは慌てて少女を追いかける。少女は狼狽するあなたを見て「何か？」と問いかける。あなたは深く息を吸い込み、真情を込めて叫ぶ。「こいし！好きッス！」少女は微妙な表情を浮かべ、うつむきながらゆっくり言う。「うむ、地上の人ってみんなそんなに変なの？」その瞬間、心が砕ける。しかし少女は続ける。「こいしはね～、面白くて変なことが大好きなの！」砕けた心は再び繋がり、あなたは問いかける。「それで…一生の内閣を組んでくれる？」"
+KOI_event.8964.a:0 "こいし可愛いね"
+
+KOI_event.1989.t:0 "こいしを連れ戻した！"
+KOI_event.1989.d:0 "「おはよ！」元気な声を上げる少女。すべてが美しい光景に見える――彼女が縄で縛られ、人に担がれていることを除けば。「バカこいし、どうして急に迷子になるんだ。みんな心配したんだぞ。」あなたは担ぎながら言う。「ふふん、外の世界は広いんだ。どうして井の中の蛙でいなきゃいけないの？」 「バカはバカだ、人に拐われて売られても気づかない！」あなたはこいしを下ろし、頭を軽く撫でる。「うぅ、次はしないから……」こいしは憐れみを誘う声を出すが、それが彼女の常套手段だと知っているあなたは、ただ無力に首を振るしかなかった。"
+KOI_event.1989.a:0 "困った小娘だな……"
+
+KOI_event.1.t:0 "こいしの贈り物！"
+KOI_event.1.d:0 "こいしは前回のお布施以来、ずっと感謝の気持ちを伝えようとしていた。そして彼女は外から何かを持ち帰り、あなたに贈り物を届けてくれた！"
+ 
+KOI_event.1.a:0 "燃えるものが欲しい"
+KOI_event.1.b:0 "キラキラして綺麗なのがいい"
+KOI_event.1.c:0 "ふわふわで可愛いのがいい"
+KOI_event.1.e:0 "黒くてカッコいいのがいい"
+
+
+KOI_event.2.a:0 "硬いものが好きだ"  
+KOI_event.2.b:0 "汎用性が高いのが一番"
+KOI_event.2.c:0 "特別な用途があるといいね"
+
+KOI_event.2.t:0 "こいしはどこへ旅行に行った？" 
+KOI_event_2.d:0 "旅から戻り、道中の景色はきっと心を酔わせるものだった。"
+ 
+KOI_event.3.a:0 "パリへ行ってヴェルサイユ宮殿を見てきた！"
+KOI_event.3.b:0 "ベルリンへ行って国会議事堂を訪れた！"
+KOI_event.3.c:0 "サンクトペテルブルクへ行って冬宮を見てきた！"
+KOI_event.4.a:0 "東京へ行ってみんなと遊んできた！"
+KOI_event.4.b:0 "ロンドンへ行ってテムズ川を散策した！"
+KOI_event.4.c:0 "ニューヨークへ行って国際都市の姿を見てきた！"
+
+KOI_idol:0 "古明地こいしコンサート"
+KOI_event_reject:0 "古明地こいし外交イベント"
+KOI_event_faction:0 "古明地こいし同盟イベント"
+KOI_event.3.t:0 "古明地こいしが世界巡回コンサートを開催!"
+KOI_event.3.d:0 "数か月前まで、各国は世界情勢に大きな緊張を抱えていた。しかし近頃、人気アイドル古明地こいしが世界巡回コンサートを行い、各国間の緊張は一気に和らいだ。こいし本人によれば、このコンサートの目的は各国がより寛容で調和的になることにあるという。そして巡回コンサートの終了後、古明地こいしは再び[FROM.GetNameDef]へ戻る予定だ。"
+KOI_event.5.a:0 "心を奪われるようだ"
+
+KOI_event.4.t:0 "国賓訪問する国は？"
+KOI_event_4.d:0 "訪問先の国を決めれば、こいしはすぐに出発する。"
+KOI_event.6.a:0 "民主の灯台！"
+KOI_event.6.b:0 "ーロッパの戦車！"
+KOI_event.6.c:0 "東アジアの新興勢力！"
+KOI_event.6.f:0 "遠交より近隣！"
+KOI_event.7.a:0 "北方の大熊！"
+KOI_event.7.b:0 "革命の古都！"
+KOI_event.7.c:0 "日が沈まぬ国！"
+KOI_event.7.e:0 "東アジアの雄獅！"
+
+KOI_event.5.t:0 "古明地こいしが我が国を国賓訪問"
+KOI_event.5.d:0 "最近、人気アイドル古明地こいしが我が国でコンサートを開催し、その後政府と接触した。今回の訪問は外交的使命を帯びており、[FROM.GetNameDef]を外交面で支持してほしいと要請し、さらに経済的な報酬を約束してきた。"
+KOI_event.8.a:0 "協力は容易だ"
+KOI_event.8.b:0 "大スターには早く帰ってもらおう、余計な心配は不要だ"
+
+KOI_event.6.t:0 "国賓訪問は成功裏に終了！"
+KOI_event.6.d:0 "こいしは国賓訪問で[FROM.GetNameDef]政府に我々への支持を呼びかけ、国際的に[FROM.GetNameDef]の支援を得ることに成功した。"
+KOI_event.9.a:0 "こいしは素晴らしい！"
+KOI_event.27139.t:0 "[FROM.GetNameDef]政府がこいしの接見を拒否！"
+KOI_event.27139.d:0 "こいしはコンサート後に[FROM.GetNameDef]政府と接触を試みたが、度重なる拒絶に遭い、外交的な話し合いを拒まれ、速やかに退去を命じられた。"
+KOI_event.27139.a:0 "無礼な振る舞いだ！"
+KOI_event.7.t:0 "古明地こいしが[FROM.GetNameDef]と[ROOT.GetNameDef]の外交を促進"
+KOI_event.7.d:0 "最近、人気アイドル古明地こいしは[FROM.GetNameDef]でコンサートを行った後、国賓訪問を実施し、[FROM.GetNameDef]政府に国際的な場で[ROOT.GetNameDef]を支持するよう呼びかけた。その結果、両国政府は互不侵犯条約やその他の外交文書に署名した。この外交が国際社会にどのような影響をもたらすのか注目されている。"
+KOI_event.7.g:0 "成り行きを見守ろう"
+
+KOI_event.27140.t:0 "古明地こいしが外交的に追放される"
+KOI_event.27140.d:0 "最近、人気アイドル古明地こいしは[FROM.GetNameDef]でコンサートを行った後、国賓訪問を試みたが、[FROM.GetNameDef]政府に門前払いされた。[ROOT.GetNameDef]は礼儀上の問題について追及すると表明している。"
+KOI_event.27140.g:0 "衝突の予兆"
+
+KOI_event.11.t:0  "大建設が完璧に完了"
+KOI_event.11.d:0  "一年間の総動員を経て、我が国の強大な工業力を示す大建設が完成した。時が経てば、[ROOT.GetNameDef]は世界一の工業国となるだろう。"
+KOI_event.11.a:0  "ついに……"
+
+KOI_event.12.t:0 "大建設が幕を閉じる"
+KOI_event.12.d:0 "最近の報告によれば、[FROM.GetNameDef]は一年間の全国総動員を経て、ついに大建設の目標を達成した。多くの困難を乗り越えたが、その成功は工業力の大幅な増強につながるだろう。"
+KOI_event.12.a:0 "人々がもう大建設を必要としないことを願う"
+
+KOI_event.13.t:0  "大建設"
+KOI_event.13.d:0  "最近の情報によれば、[FROM.GetNameDef]は全国総動員を行い、大建設を進めている。その目標は一年以内に[FROM.GetNameDef]の総生産価値を世界の先頭に立たせることだ。"
+KOI_event.13.a:0 "総力を挙げよ"
+
+KOI_event.14.t:0  "古明地こいしが我が国に同盟を提案"
+KOI_event.14.d:0  "古明地こいしは前回の国賓訪問に続き再び我が国を訪れ、今回は[FROM.GetNameDef]と[ROOT.GetNameDef]が同盟を結ぶことを希望している。"
+KOI_event.14.a:0 "これは両国関係を深めるだろ"
+KOI_event.14.b:0 "この渦中に巻き込まれるのは避けたい""
+
+KOI_event.15.t:0  "[FROM.GetNameDef]が同盟に同意"
+KOI_event.15.d:0  "予想通り、[FROM.GetNameDef]は我が国と統一戦線を築く意志を示し、同盟を承諾した。"
+KOI_event.15.a:0 "こいし、よくやった！"
+
+KOI_event.16.t:0  "古明地こいしが両国の力を統合したいと希望"
+KOI_event.16.d:0  "前回の同盟提案に続き、古明地こいしは再び我が国を訪れ、同好会の加盟国となるよう求めてきた。これは双方にとって大きな利益になると彼女は述べている。"
+KOI_event.16.a:0 "受け入れない理由はない"
+
+KOI_event.17.t:0  "[FROM.GetNameDef]が我が国の加盟国に！"
+KOI_event.17.d:0  "予想通り、[FROM.GetNameDef]はこいしの説得を受け入れ、同好会の加盟国となった。"
+KOI_event.17.a:0 "こいしを称えよう！"
+
+KOI_event.18.t:0  "古明地こいしが両国の合併を希望"
+KOI_event.18.d:0  "古明地こいしは我が国を訪れ、同好会との関係をさらに深め、直接加盟国となるよう求めてきた。"
+KOI_event.18.a:0 "喜んで応じよう"
+
+KOI_event.19.t:0  "[FROM.GetNameDef]が合併に同意！"
+KOI_event.19.d:0  "こいしの説得により、[FROM.GetNameDef]は我が国の加盟国となることを受け入れた。"
+KOI_event.19.a:0 "こいしに祝福を！"
+
+KOI_event.1000.t:0  "[FROM.GetNameDef]が同盟を拒否！"
+KOI_event.1000.d:0  "たとえ[FROM.GetNameDef]が国際的に我が国を支持するとしても、こいしが関係をさらに深めようとした際、彼らは話を逸らし、同盟の意思を示さなかった。"
+KOI_event.1000.a:0 "恩知らずめ！"
+
+KOI_event.1515.t:0 "古明地こいし同好会に新たな盟友"
+KOI_event.1515.d:0 "最近、[FROM.GetNameDef]が古明地こいし同好会への加盟を宣言した。[FROM.GetNameDef]と[ROOT.GetNameDef]は軍事・経済に関する一連の条約に署名し、さらなる協力を表明している。"
+KOI_event.1515.a:0 "面白い協力関係だ"
+
+KOI_event.1717.t:0 "古明地こいし同好会に新たな加盟国"
+KOI_event.1717.d:0 "最近、[FROM.GetNameDef]は古明地こいし同好会の加盟国となる意向を示し、主権や地位について一連の協議を行った。そして昨日、正式に条約が締結された。"
+KOI_event.1717.a:0 "幸運を祈ろう"
+
+KOI_event.1919.t:0 "古明地こいし同好会に新たな加盟国"
+KOI_event.1919.d:0 "最近、[FROM.GetNameDef]は正式に同好会の加盟国となり、同好会の行政に編入された。[FROM.GetAdjective]は旧政府を維持しつつ、[ROOT.GetNameDef]の新たな行政単位となる。"
+KOI_event.1919.a:0 "同好会の力はますます強大に！"
+
+KOI_event.20.t:0 "古明地こいしが企業に投資を呼びかけ"
+KOI_event.20.d:0 "最近、古明地こいしは[FROM.GetNameDef]で企業家たちに我が国への投資を呼びかけ、大量の資金と生産力が我が国市場へ流入している。"
+KOI_event.20.a:0 "やった！"
+
+KOI_event.22.t:0 "我が国が戦時動員へ突入"
+KOI_event.22.d:0 "我が国が戦争状態に入ると、こいしの呼びかけに応じて多くのファンが入隊した。同時に、こいしは幻想郷から奇妙な生物を連れてきた。"
+KOI_event.22.a:0 "兵を養うは千日、用いるは一時（油庫から銃をどうやって？）"
+
+KOI_event.23.t:0 "謎の訪問者がある国へ"
+KOI_event.23.d:0 "こいしが現れて以来、ずっとさとりがどこにいるのか気になっていたが、まもなくその疑問は解かれるだろう。"
+KOI_event.23.a:0 "見覚えのある人物が来た！"
+
+KOI_event.25.t:0 "古明地さとりが我が国へ！"
+KOI_event.25.d:0 "古明地こいしの姉だと名乗る人物が我が国に現れ、妹を連れ戻すために協力を求めてきた。彼女はこいしを探すため我々の助力を望んでいる。"
+KOI_event.25.a:0 "面白そうじゃないか？"
+KOI_event.25.b:0 "やめておこう"
+
+KOI_event.2525.t:0 "古明地さとりが新政府を樹立"
+KOI_event.2525.d:0 "最近、古明地こいしの姉だと名乗る人物が[FROM.GetNameDef]に現れ、妹を探すために力を借りたいと申し出た。[FROM.GetNameDef]政府はこれを承諾し、彼女は同国で新政府を樹立した。"
+KOI_event.2525.a:0 "何だこれは？"
+
+KOI_event.27.t:0 "古明地さとりが我々に同盟を提案"
+KOI_event.28.a:0 "いいだろう"
+
+KOI_event.291.t:0 "古明地さとりが我が国へ侵攻！"
+
+KOI_event.29.t:0 "古明地さとりがこいしの引き渡しを要求！"
+KOI_event.29.d:0 "一連の拡張を経て、古明地さとりは十分な力を得たと考え、我々にこいしを引き渡すよう要求してきた。もし拒否すれば、武力でこいしを奪うと宣言している。"
+KOI_event.29.a:0 "こいしを守れ！"
+
+KOI_event.30.t:0 "敗北"
+KOI_event.30.d:0 "明らかに我々は絶対的な劣勢にあり、こいしも停戦のためにさとりとの交換を望んでいる。これが唯一の選択肢のようだ。"
+KOI_event.30.a:0 "暗黒の時代が訪れた"
+
+KOI_event.31.t:0 "[FROM.GetNameDef]がこいしの引き渡しを表明"
+KOI_event.31.d:0 "彼らは自らが絶対的劣勢にあることを認識し、停戦のためにこいしを引き渡す意思を示した。"
+KOI_event.31.a:0 "当然の判断だ"
+
+KOI_event.32.t:0 "[FROM.GetNameDef]が停戦協定を受諾"
+KOI_event.32.d:0 "古明地さとりは停戦協定を受け入れ、現在[FROM.GetNameDef]は我が国から撤退している。"
+KOI_event.32.a:0 "我々の行く末は……"
+
+KOI_event.30.t:0 "敗北"
+KOI_event.30.d:0 "明らかに我々は絶対的な劣勢にあり、こいしも停戦のためにさとりとの交換を望んでいる。これが唯一の選択肢のようだ。"
+KOI_event.30.a:0 "暗黒の時代が訪れた"
+
+KOI_event.31.t:0 "[FROM.GetNameDef]がこいしの引き渡しを表明"
+KOI_event.31.d:0 "彼らは自らが絶対的劣勢にあることを認識し、停戦のためにこいしを引き渡す意思を示した。"
+KOI_event.31.a:0 "当然の判断だ"
+
+KOI_event.32.t:0 "[FROM.GetNameDef]が停戦協定を受諾"
+KOI_event.32.d:0 "古明地さとりは停戦協定を受け入れ、現在[FROM.GetNameDef]は我が国から撤退している。"
+KOI_event.32.a:0 "我々の行く末は……"
+
+KOI_event.33.t:0 "敗北"
+KOI_event.33.d:0 "明らかに我々は絶対的な劣勢にあり、こいしと再会するためには相手に従属するしかないかもしれない。"
+KOI_event.33.a:0 "これが唯一残された道だ"
+
+KOI_event.34.t:0 "[FROM.GetNameDef]が停戦を希望"
+KOI_event.34.d:0 "很明顯，他們現在已經意識到他們處於絕對的劣勢中，因此古明地覺願意為我們效力以換取與戀戀團聚，並願意合併"
+KOI_event.34.a:0 "很好"
+
+KOI_event.35.t:0 "[FROM.GetNameDef]接受了協議"
+KOI_event.35.d:0 "[FROM.GetNameDef]は、我々に従属することでこいしと再会する案を受け入れた。我が国の地方政府も彼らに従属することになる。"
+KOI_event.35.a:0 "こいしの言う通りかもしれない"
+
+KOI_event.3232.t:0 "古明地さとりが古明地こいしに勝利"
+KOI_event.3232.d:0 "昨日、長きにわたる地霊殿と[ROOT.GetNameDef]の戦争がついに終結した。その結果、古明地さとりが最終的な勝利を収め、こいしは停戦の条件として[FROM.GetNameDef]政府に引き渡された。こうして古明地さとりの目標は達成された。"
+KOI_event.3232.a:0 "未来は暗い……"
+
+KOI_event.3535.t:0 "古明地こいしが古明地さとりに勝利"
+KOI_event.3535.d:0 "昨日、長きにわたる地霊殿と[ROOT.GetNameDef]の戦争がついに終結した。この戦争の結果、古明地こいしが最終的な勝利を収め、古明地さとり政府はこいしとの再会を条件に[ROOT.GetNameDef]政府へ併合されることを発表した。これはある意味で双方にとっての「勝利」と言えるだろう。"
+KOI_event.3535.a:0 "栄光だ！"
+
+KOI_event.36.t:0 "地霊殿兵団を召喚"
+KOI_event.36.d:0 "戦争が長引くにつれ、地底からさらに多くの兵団が招集されている。"
+KOI_event.36.a:0 "よし来い！"
+
+KOI_event.37.t:0 "古明地さとり特殊イベント"
+KOI_event.37.d:0 "こいしを匿った後、およそ一年ほどでさとりが現れるだろう。その時には激しい戦いが勃発する可能性がある（現在このイベントはバニラ版のみ適用）。"
+KOI_event.37.a:0 "戦え！"
+KOI_event.37.b:0 "今すぐさとりたちも呼び寄せよう！"
+KOI_event.37.c:0 "面倒だ、やめておこう。"
+KOI_yes_tt:0 "§tさとりはおよそ一年後に現れる§!"
+
+KOI_event.38.t:0 "ヨーロッパの反乱！"
+KOI_event.38.d:0 "古明地さとりの扇動により、ヨーロッパの一部国家が我々から独立した。"
+KOI_event.38.a:0 "くそっ！"
+
+KOI_event.39.t:0 "ロシアの反乱！"
+KOI_event.39.d:0 "古明地さとりの扇動により、ロシアが我々から独立した。"
+KOI_event.39.a:0 "くそっ！"
+
+KOI_event.40.t:0 "アジアの反乱！"
+KOI_event.40.d:0 "古明地さとりの扇動により、アジアの一部国家が我々から独立した。"
+KOI_event.40.a:0 "くそっ！"
+
+KOI_event.41.t:0 "アメリカの反乱！"
+KOI_event.41.d:0 "古明地さとりの扇動により、アメリカが我々から独立した。"
+KOI_event.41.a:0 "くそっ！"
+
+KOI_event.42.t:0 "国内反乱！"
+KOI_event.42.d:0 "古明地さとりの扇動により、多くの国民が反乱を起こした。"
+KOI_event.42.a:0 "裏切り者どもめ！"
+
+KOI_event.43.t:0 "国内工業が破壊された！"
+KOI_event.43.d:0 "我が国の工業が正体不明の者によって破壊された。"
+KOI_event.43.a:0 "忌々しい！"
+
+KOI_event.44.t:0 "古明地こいし同好会の成立"
+KOI_event.44.d:0 "「人類の事務の発展過程において、ある民族が他の民族との政治的な結びつきを解消し、世界諸国の間で自然法則と自然の神々に従い、独立と平等の地位を得なければならない時、正義への敬意から、その理由を公に宣言する義務がある。\n\n我々は次の真理を自明のものと信じる。すべての人は平等に生まれ、創造主から生命、自由、幸福追求の権利といった奪うことのできない権利を与えられている。これらの権利を保障するために人々は政府を設立し、その正当な権力は被治者の同意から生じる。いかなる政府もこれらの目的を破壊するならば、人々はそれを変革または廃止し、新たな政府を設立する権利と義務を持つ。その新政府は安全と幸福を最大限に増進する原則と組織に基づくべきである。慎重に考えれば、些細で一時的な理由で長年続いた政府を変えるべきではない。人類は苦難に耐えられる限り、慣れ親しんだ政府を廃止するよりもそれを容認する傾向がある。しかし、政府が権力を濫用し、専制を目指して人民を抑圧することが明らかになった時、人々はその政府を打倒し、未来の安全を保障する新たな体制を築く権利と義務を持つのである。」"
+KOI_event.44.a:0 "我々はこいしを偉大にする潮流を導く！"
+#國家
+EET_neutrality:0 "永遠亭"
+EET_fascism:0 "改組永遠亭"
+EET_communism:0 "永遠亭労働団"
+EET_democratic:0 "永遠亭連盟"
+KOI_EET:0 "永遠亭"
+EET_DEF:0 "永遠亭"
+EET_ADJ:0 "永遠亭"
+KMK_communism:0 "紅魔館労働団"
+KMK_neutrality:0 "専制紅魔館"
+KMK_fascism:0 "侵略派紅魔館"
+KMK:0 "紅魔館"
+KMK_DEF:0 "紅魔館"
+KMK_ADJ:0 "紅魔館"
+KOI_KMK:0 "紅魔館"
+CRD_neutrality:0 "地霊殿"
+KOI_CRD:0 "地霊殿"
+CRD_DEF:0 "地霊殿"
+CRD_ADJ:0 "地霊殿"
+KOI_faction.1:0 "古明地こいし同好会"
+TGC_faction.1:0 "共同防衛同盟"
+CRD_neutrality_party:0 "地霊殿勢力"
+KMK_democratic_party:0 "紅魔館民権陣線"
+KMK_communism_party:0 "紅魔館革命委員会"
+EET_fascism_party:0 "永遠亭復讐派"
+
+#角色名定義
+Name_CRD_KOI:0 "古明地こいし"
+Name_CRD_STR:0 "古明地さとり "
+Name_CRD_RHO:0 "霊烏路空"
+Name_CRD_KBR:0 "火焔猫燐"
+
+Name_EET_YKE:0 "八意永琳"
+Name_EET_HRK:0 "蓬莱山輝夜 "
+Name_EET_RUI:0 "鈴仙・優曇華院・因幡"
+Name_EET_IBT:0 "因幡てゐ"
+
+Name_KMK_RMR:0 "レミリア・スカーレット"
+Name_KMK_FLD:0 "フランドール・スカーレット"
+Name_KMK_HML:0 "紅美鈴"
+Name_KMK_PCR:0 "パチュリー・ノーレッジ"
+Name_KMK_IYS:0 "十六夜咲夜"
+
+
+#關係
+KOI_opinion.1:0 "古明地こいし国賓訪問"
+KOI_opinion.1_5:0 "古明地こいし国賓訪問"
+KOI_opinion.2:0 "古明地こいし国賓訪問を拒否！"
+KOI_opinion.3:0 "古明地こいし同好会の盟友国"
+KOI_opinion.3_5:0 "古明地こいし同好会の盟友国"
+KOI_opinion.4:0 "同好会の盟友国になることを拒否"
+KOI_opinion.5:0 "古明地こいし同好会の加盟国"
+KOI_opinion.5_5:0 "古明地こいし同好会の加盟国"
+KOI_opinion.6:0 "古明地こいしを匿った！"
+KOI_opinion.7:0 "古明地こいしを引き渡した"
+
+#民族精神
+CRD_public_opinion_offensive:0 "世論攻勢"
+CRD_war_propaganda:0 "戦争宣伝"
+CRD_satorisupport:0 "古明地さとりの支援"
+koishicome:0 "こいしが来た！"
+KOI_satoricome:0 "さとりも来た！"
+KOI_The_great_leap_forward:0 "大建設"
+KOI_idol_economics_1:0 "アイドル派生経済（輸出なし）"
+KOI_idol_economics_2:0 "アイドル派生経済（少量輸出）"
+KOI_idol_economics_3:0 "アイドル派生経済（中規模輸出）"
+KOI_idol_economics_4:0 "アイドル派生経済（大量輸出）"
+KOI_idol_economics_5:0 "アイドル派生経済（完全輸出）"
+KOI_koishi_economics:0 "こいし経済学"
+KOI_koishi_general_economics:0 "こいし総動員経済"
+KOI_koishi_encourage_mobilization:0 ""古明地こいしはあなたを必要としている！"
+koishi_idea:0 " 古明地こいし"
+KOI_satoriwar:0 "§R拡張！§!"
+KOI_satoriwar_desc:0 "こいしを要求する前に、万全の準備を整えなければならない。対外的に勢力を拡大することで、将来こいしとの衝突が起きた際の勝算を高められる。\n§Rこの精神はこいし要求時に解除される！§!"
+
+#國策
+CRD_new_start:0 "拠点の強化"
+CRD_new_start_desc:0 "地上に出て以来、我々は外部の目にさらされている。拠点の人々の忠誠を早急に確保しなければならない。"
+CRD_prepare_for_war:0 "戦争準備"
+CRD_prepare_for_war_desc:0 "こいしを一刻も早く家へ連れ戻すためには、対外的な拡張で実力を高め、あらゆる手段で目標を達成できるようにするのが最善だ。しかし現状ではその力が不足している。"
+CRD_external_expansion:0 "拡張の時だ！"
+CRD_external_expansion_desc:0 "急速な工業化に成功した今、計画の第一歩を実行できる段階に入った。"
+CRD_public_opinion_offensive_desc:0 "急速に拡張する国家として、こいしとの間に意見の対立がある者も多い。我々の支持者を送り込むことで現地に騒動を引き起こせる。"
+CRD_war_propaganda_desc:0 "新興勢力として、我々の力は戦場だけに限られない。大量の宣伝によってこいしに我々の実力を誤認させ、戦わずして目標を達成できる。"
+CRD_penetrate_industry:0 "工業への浸透"
+CRD_penetrate_industry_desc:0 "工業力の差は依然として大きい。こいしの生産施設を破壊するために工作員を送り込み、戦争機構を麻痺させることができる。"
+CRD_Inciting_rebellion_in_America:0 "アメリカ反乱の扇動"
+CRD_Inciting_rebellion_in_America_desc:0 "統一されたアメリカには、こいしの支配を受け入れない者が多い。特に南部のディキシーたちには支援を与え、反乱を起こさせることができる。"
+CRD_Inciting_rebellion_in_Asia:0 "アジア反乱の扇動"
+CRD_Inciting_rebellion_in_Asia_desc:0 "広大なアジアには日本と中国という文化的に深い国があり、彼らはこいしの支配を受け入れない。我々は支援を提供し、反乱を起こさせることができる。"
+CRD_Inciting_rebellion_in_Russia:0 "ロシア反乱の扇動"
+CRD_Inciting_rebellion_in_Russia_desc:0 "共産主義の拡大を阻止したものの、なお多くの者がその幻想を抱いている。我々は支援を提供し、反乱を起こさせることができる。"
+CRD_Koishi_or_war:0 "こいしか戦争か！"
+CRD_Koishi_or_war_desc:0 "準備は十分だ。今こそこいしを家へ連れ戻す時だ！"
+CRD_Inciting_rebellion_in_Europe:0 "ヨーロッパ反乱の扇動"
+CRD_Inciting_rebellion_in_Europe_desc:0 "ヨーロッパの老舗工業国には、こいしを快く思わない者が多い。我々は支援を提供し、反乱を起こさせることができる。"
+CRD_sowing_discord:0 "不和の種まき"
+CRD_sowing_discord_desc:0 "こいしの支配下にある人々の多くは武力に屈して従っているだけだ。少し誘導すれば、その支配は音を立てて崩れるだろう！"
+CRD_keep_attacking:0 "攻撃の継続"
+
+#特質
+KOI_traits:0 "閉ざされたこいしの瞳"
+KOI_traits_desc:0 "この指揮官は奇特な性格を持ち、捉えどころがない。"
+STR_traits:0 "読心の能力"
+STR_traits_desc:0 "この指揮官は奇特な能力を持ち、畏敬の念を抱かせる。"
+
+KOI_leader_traits:0 "心を閉ざしたさとり妖怪"
+STR_leader_traits:0 "§0妹を探しに来たさとり妖怪§!"
+RHO_leader_traits:0 "核融合を操る能力"
+KBR_leader_traits:0 "死体を運ぶ能力"
+STR2_leader_traits:0 "§0心を読む能力§!"
+RHO2_leader_traits:0 "§t核融合を操る能力§!"
+KBR2_leader_traits:0 "§R死体を運ぶ能力§!"
+
+#佔領法案
+KOI_occupation_laws:0 "こいし自由放任鎮圧法"
+KOI_occupation_laws_tt:0 "占領に装備や人員を費やす？それなら放置だ！人間の主体性を信じろ！"
+
+KOI_units_technology:0 "こいし兵種"
+
+KOI_koishi_infantry:0 "古明地こいし" 
+KOI_STR_infantry:0 "地霊殿歩兵" 
+KOI_STR_artillery:0 "地霊殿砲兵" 
+KOI_STR_tank:0 "地霊殿戦車" 
+KOI_koishi_infantry_desc:0 "こいしはあなたを守りたい。そのために30k+の柔硬攻を繰り出し、敵をその場で眠らせる。" 
+KOI_koishi_yukkuri_infantry:0 "こいしゆっくり"
+KOI_koishi_yukkuri_infantry_desc:0 "奇妙な生物たち。皮は厚く、足は速く、甘くてジューシー。安心して食べられる。"
+KOI_koishi_fans_infantry:0 "古明地こいし同好会ファン" 
+KOI_koishi_fans_infantry_desc:0 "一人のために前線へ赴く者たち。心にあるのはこいしだけ。戦意は揺るぎない。" 
