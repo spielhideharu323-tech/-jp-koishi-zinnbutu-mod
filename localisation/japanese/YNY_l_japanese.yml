@@ -63,9 +63,9 @@ YNY_find_new_markets:0 "新市場の開拓"
 YNY_Increase_publicity:0 "宣伝の強化"
 
 #事件
-YNY_event.0.a:0 "妖怪之山"
+YNY_event.0.a:0 "妖怪の山"
 
-YNY_event.1.t:0 "大選結果……"
+YNY_event.1.t:0 "選挙結果……"
 YNY_event.1.d:0 "隨著我們內部的形勢越發緊張，這輪大選的結果很可能影響我們的未來"
 YNY_event.1.a:0 "保守黨勝出！"
 YNY_event.1.b:0 "社會黨勝出！"
@@ -332,4 +332,5 @@ YNY_faction_f_2:0 "天狗至上共榮圈"
 YNY_faction_c_1:0 "河童共產國家"
 YNY_faction_c_2:0 "山童世界革命委員會"
 YNY_faction_c_3:0 "工農聯合統一戰線"
+
 YNY_faction_n:0 "守矢神社本廳"
